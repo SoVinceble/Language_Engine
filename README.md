@@ -16,7 +16,7 @@ REST server at http://qserver.dhcp.meraka.csir.co.za:22224
 
 2. Synthesize text with the voice http://qserver.dhcp.meraka.csir.co.za:22224/synth/English%20Candice/hello%world
 
-## Insights
+### Insights
 
 Both return JSON objects, you can view the objects in your web browser.
 
