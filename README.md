@@ -25,9 +25,9 @@ The synthesis object contains a "samples64" entry, which is the waveform samples
 In this Python demo the samples are decoded and written to a RIFF format wave file.
 
 ## Notice
-**_NonCommercial usage._**
+> NonCommercial usage
 
-**_For developing purpose only._**
+> For developing purpose only
 
 
 ## Copyrighted
